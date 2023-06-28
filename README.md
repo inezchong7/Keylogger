@@ -25,3 +25,4 @@
 
 <p>A keyfile was generated with all the letters recorded.</p>
 <img src="
+
