@@ -18,3 +18,10 @@
 <img src="https://github.com/inezchong7/Keylogger/assets/106855786/b5bc3019-a427-453b-8de3-ce8482d20052"> 
 
 <p>Then, I installed pynput in python and wrote the code.</p>
+<img src="
+
+<p>To test if the code works, I ran it and input random letters to see if a keyfile is generated.</p>
+<img src="
+
+<p>A keyfile was generated with all the letters recorded.</p>
+<img src="
